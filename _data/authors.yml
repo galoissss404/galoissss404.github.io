@@ -1,0 +1,14 @@
+Galoissss404:
+  name        : "Galoissss404"
+  bio         : "Empty"
+  avatar      : "https://unavatar.io/twitter/galois_steal"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:3udq23vwa@mozmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/galoissss404"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/galoissss404"
